@@ -1,7 +1,7 @@
 {
     "schema":  1,
-    "publishedAt":  "2026-11-13T13:00:47Z",
-    "notes":  "First Update for Me",
+    "publishedAt":  "2026-11-13T13:43:59Z",
+    "notes":  "Second Test Update(Experimental)",
     "platforms":  {
                       "windows":  {
                                       "latestVersion":  "1.1.0",
@@ -11,7 +11,7 @@
                                       "downloadUrl":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.0-Setup.exe",
                                       "sha256":  "c84e0c639e4e6580a931f42d6730ee05022bcb52c274a42e3ccc98c4f17aa9ec",
                                       "sizeBytes":  11971945,
-                                      "notes":  "First Update for Me"
+                                      "notes":  "Second Test Update(Experimental)"
                                   }
                   }
 }
