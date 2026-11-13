@@ -1,0 +1,17 @@
+{
+    "schema":  1,
+    "publishedAt":  "2026-11-13T12:53:21Z",
+    "notes":  "First Public Release",
+    "platforms":  {
+                      "windows":  {
+                                      "latestVersion":  "1.1.0",
+                                      "latestBuild":  10100,
+                                      "minimumVersion":  "1.1.0",
+                                      "minimumBuild":  10100,
+                                      "downloadUrl":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.0-Setup.exe",
+                                      "sha256":  "c84e0c639e4e6580a931f42d6730ee05022bcb52c274a42e3ccc98c4f17aa9ec",
+                                      "sizeBytes":  11971945,
+                                      "notes":  "First Public Release"
+                                  }
+                  }
+}
