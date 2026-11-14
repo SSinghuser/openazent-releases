@@ -1,17 +1,27 @@
 {
     "schema":  1,
-    "publishedAt":  "2026-11-13T13:43:59Z",
-    "notes":  "Second Test Update(Experimental)",
+    "publishedAt":  "2026-11-14T04:16:40Z",
+    "notes":  "First Update",
     "platforms":  {
                       "windows":  {
-                                      "latestVersion":  "1.1.0",
-                                      "latestBuild":  10100,
-                                      "minimumVersion":  "1.1.0",
-                                      "minimumBuild":  10100,
-                                      "downloadUrl":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.0-Setup.exe",
-                                      "sha256":  "c84e0c639e4e6580a931f42d6730ee05022bcb52c274a42e3ccc98c4f17aa9ec",
-                                      "sizeBytes":  11971945,
-                                      "notes":  "Second Test Update(Experimental)"
+                                      "latestVersion":  "1.1.2",
+                                      "latestBuild":  10102,
+                                      "minimumVersion":  "1.1.2",
+                                      "minimumBuild":  10102,
+                                      "downloadUrl":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.2-Setup.exe",
+                                      "sha256":  "36c81a7267a17e843f5047a16e7e106edf838f3b43b9b36548203596cfae84a0",
+                                      "sizeBytes":  11499135,
+                                      "notes":  "First Update"
+                                  },
+                      "android":  {
+                                      "latestVersion":  "1.1.2",
+                                      "latestBuild":  10102,
+                                      "minimumVersion":  "1.1.2",
+                                      "minimumBuild":  10102,
+                                      "downloadUrl":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.2.apk",
+                                      "sha256":  "053c252c72bb3bab04621be15de1fe078e29080defa044c9642b0941543bea5c",
+                                      "sizeBytes":  51197605,
+                                      "notes":  "First Update"
                                   }
                   }
 }
