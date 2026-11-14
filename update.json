@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "publishedAt":  "2026-11-14T04:20:33Z",
+    "publishedAt":  "2026-11-14T04:40:44Z",
     "notes":  "Bug fixes and performance improvements.",
     "platforms":  {
                       "windows":  {
@@ -19,8 +19,8 @@
                                       "minimumVersion":  "1.1.2",
                                       "minimumBuild":  10102,
                                       "downloadUrl":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.2.apk",
-                                      "sha256":  "053c252c72bb3bab04621be15de1fe078e29080defa044c9642b0941543bea5c",
-                                      "sizeBytes":  51197605,
+                                      "sha256":  "75b9fdf284ac82b0522982302b8030df76dc2b1d6087d15129e15837c27bbc16",
+                                      "sizeBytes":  51266397,
                                       "notes":  "Bug fixes and performance improvements."
                                   }
                   }

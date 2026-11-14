@@ -1,9 +1,20 @@
-{
-    "Platform":  "windows",
-    "Asset":  "C:\\Users\\samri\\Documents\\OpenAzent\\openazent-releases\\dist\\OpenAzent-1.1.0-Setup.exe",
-    "Url":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.0-Setup.exe",
-    "Sha256":  "c84e0c639e4e6580a931f42d6730ee05022bcb52c274a42e3ccc98c4f17aa9ec",
-    "Size":  11971945,
-    "Minimum":  "1.1.0",
-    "Build":  10100
-}
+[
+    {
+        "Platform":  "windows",
+        "Asset":  "C:\\Users\\samri\\Documents\\OpenAzent\\openazent-releases\\dist\\OpenAzent-1.1.2-Setup.exe",
+        "Url":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.2-Setup.exe",
+        "Sha256":  "36c81a7267a17e843f5047a16e7e106edf838f3b43b9b36548203596cfae84a0",
+        "Size":  11499135,
+        "Minimum":  "1.1.2",
+        "Build":  10102
+    },
+    {
+        "Platform":  "android",
+        "Asset":  "C:\\Users\\samri\\Documents\\OpenAzent\\openazent-releases\\dist\\OpenAzent-1.1.2.apk",
+        "Url":  "https://raw.githubusercontent.com/SSinghuser/openazent-releases/main/dist/OpenAzent-1.1.2.apk",
+        "Sha256":  "053c252c72bb3bab04621be15de1fe078e29080defa044c9642b0941543bea5c",
+        "Size":  51197605,
+        "Minimum":  "1.1.2",
+        "Build":  10102
+    }
+]
